@@ -1,2 +1,0 @@
-print('system.oout.println')
-
